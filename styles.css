@@ -2,7 +2,6 @@
    LOLAV KOSMETIK - STYLES CSS
    Design: Minimalisme Médical Luxe
    Palette: Crème Saphir (#F8F4F1), Chocolat Noir (#2C1A14), Rose Poudré (#EFC0A8), Beige Cachemire (#BFA997)
-   Typographie: Playfair Display (titres), Inter (corps), Poppins (CTA)
    ============================================ */
 
 /* VARIABLES CSS - OKLCH COLORS (Same as React) */
@@ -54,7 +53,7 @@ h1, h2, h3 {
 
 @font-face {
   font-family: 'MaPolice';
-  src: url('./txt/reailge.otf') format('opentype');
+  src: url('reailge.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
